@@ -99,6 +99,7 @@ data.forEach((d)=>{
             return;
         case "female":
             console.log(`${d.name} is female`)
+            return;
     }
 })
 
